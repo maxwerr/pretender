@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "FakeXMLHttpRequest": "~1.2.0",
-    "route-recognizer": "tildeio/route-recognizer"
+    "route-recognizer": "tildeio/route-recognizer#master"
   },
   "devDependencies": {
     "jquery": "~2.1.0"
